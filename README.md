@@ -3,6 +3,7 @@ What would happen if a Data Scientist owned a Major League Baseball expansion te
 
 I've always been a big baseball fan, particularly of the Mets. However, as many know, this is one of the hardest teams to be a fan of, because all we do is lose, and when we win, we somehow still lose. So, I decided it would be fun to become a fan of a new team-- my very own MLB expansion team. 
 
+## Background
 There have been six expansions in Major League Baseball's history, 1961, 1962 (my Mets!), 1969, 1977, 1993, and 1998. Therefore, it's been 25 years since the league last expanded. Seems about time they do!
 
 With every league expansion, the new team starts with 0 players. You might ask, "how do they field a they field a team if they have no players?". Well, you'd be right to ask that, and the answer is relatively simple. Every team an expansion team joins MLB, an expansion draft with unique rules occurs such that the team can fill out a roster and compete immediately. It's really quite interesting!
