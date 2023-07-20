@@ -11,7 +11,7 @@ In this project, I will be playing the role of General Manager of my expansion t
 
 For the purpose of this project, I will be obliging by the rules of the most recent expansion-- the 1997 MLB Expansion Draft. This draft saw two franchises, the Tampa Bay Devil Rays and the Arizona Diamondbacks enter the league and draft at the same time. In this scenario, I will be the lone expansion team, but following the same restrictions.
 
-# Expansion Draft Rules:
+## Expansion Draft Rules:
 1. Expansion teams select 35 players to fill out their rosters
 2. The draft is divided into three rounds:
    * 1st round: 14 players selected
