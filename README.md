@@ -1,4 +1,4 @@
-# MLB-Expansion-Team-Project
+# MLB Expansion Team Project
 What would happen if a Data Scientist owned a Major League Baseball expansion team?
 
 I've always been a big baseball fan, particularly of the Mets. However, as many know, this is one of the hardest teams to be a fan of, because all we do is lose, and when we win, we somehow still lose. So, I decided it would be fun to become a fan of a new team-- my very own MLB expansion team. 
