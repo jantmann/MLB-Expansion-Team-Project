@@ -1,0 +1,53 @@
+﻿Rk,Uni,Name,,,OnActv,IL,Age,B,T,Ht,Wt,DoB,1stYr,Name-additional
+1,49,Julio Teheran,co CO,Pitcher,*,,32,R,R,"6' 2""",205,Jan 27 1991,2008,teherju01
+2,31,Joel Payamps,do DO,Pitcher,*,,29,R,R,"6' 2""",217,Apr 7 1994,2011,payamjo01
+3,36,J.C. Mejía,do DO,Pitcher,*,,26,R,R,"6' 6""",250,Aug 26 1996,2014,mejiaje02
+4,55,Hoby Milner,us US,Pitcher,*,,32,L,L,"6' 3""",184,Jan 13 1991,2011,milneho01
+5,51,Freddy Peralta,do DO,Pitcher,*,,27,R,R,"6' 0""",196,Jun 4 1996,2013,peralfr01
+6,29,Trevor Megill,us US,Pitcher,*,,29,L,R,"6' 8""",250,Dec 5 1993,2012,megiltr01
+7,59,Elvis Peguero,do DO,Pitcher,*,,26,R,R,"6' 5""",237,Mar 20 1997,2016,pegueel01
+8,38,Devin Williams,us US,Pitcher,*,,28,R,R,"6' 2""",192,Sep 21 1994,2013,willide03
+9,39,Corbin Burnes,us US,Pitcher,*,,28,R,R,"6' 3""",246,Oct 22 1994,2014,burneco01
+10,48,Colin Rea,us US,Pitcher,*,,32,R,R,"6' 5""",218,Jul 1 1990,2010,reaco01
+11,46,Bryse Wilson,us US,Pitcher,*,,25,R,R,"6' 2""",267,Dec 20 1997,2016,wilsobr02
+12,45,Abner Uribe,do DO,Pitcher,*,,23,R,R,"6' 3""",225,Jun 20 2000,2018,uribeab01
+13,37,Adrian Houser,us US,Pitcher,*,,30,R,R,"6' 3""",242,Feb 2 1993,2011,housead01
+14,22,Christian Yelich,us US,Position,*,,31,L,R,"6' 3""",207,Dec 5 1991,2010,yelicch01
+15,33,Jesse Winker,us US,Position,*,,29,L,L,"6' 2""",230,Aug 17 1993,2012,winkeje01
+16,28,Joey Wiemer,us US,Position,*,,24,R,R,"6' 4""",220,Feb 11 1999,2018,wiemejo01
+17,6,Owen Miller,us US,Position,*,,26,R,R,"5' 11""",195,Nov 15 1996,2016,milleow01
+18,12,Jahmai Jones,us US,Position,*,,25,R,R,"6' 0""",210,Aug 4 1997,2015,jonesja08
+19,3,Raimel Tapia,do DO,Position,*,,29,L,L,"6' 3""",178,Feb 4 1994,2011,tapiara01
+20,27,Willy Adames,do DO,Position,*,,27,R,R,"6' 1""",214,Sep 2 1995,2013,adamewi01
+21,14,Andruw Monasterio,ve VE,Position,*,,26,R,R,"5' 11""",186,May 30 1997,2014,monasan01
+22,15,Tyrone Taylor,us US,Position,*,,29,R,R,"6' 1""",218,Jan 22 1994,2012,tayloty01
+23,16,Blake Perkins,us US,Position,*,,26,S,R,"5' 11""",197,Sep 10 1996,2015,perkibl01
+24,7,Victor Caratini,pr PR,Position,*,,29,S,R,"5' 11""",225,Aug 17 1993,2013,caratvi01
+25,24,William Contreras,ve VE,Position,*,,25,R,R,"5' 11""",216,Dec 24 1997,2015,contrwi02
+26,,Brice Turang,us US,Position,*,,23,L,R,"6' 0""",176,Nov 21 1999,2018,turanbr02
+27,11,Rowdy Tellez,us US,Position,,10-day,28,L,L,"6' 4""",270,Mar 16 1995,2013,tellero01
+28,9,Brian Anderson,us US,Position,,10-day,30,R,R,"6' 2""",215,May 19 1993,2012,anderbr06
+29,57,Bennett Sousa,us US,Pitcher,,15-day,28,L,L,"6' 3""",220,Apr 6 1995,2015,sousabe01
+30,20,Wade Miley,us US,Pitcher,,15-day,36,L,L,"6' 1""",220,Nov 13 1986,2008,mileywa01
+31,35,Justin Wilson,us US,Pitcher,,60-day,35,L,L,"6' 2""",205,Aug 18 1987,2009,wilsoju10
+32,26,Aaron Ashby,us US,Pitcher,,60-day,25,R,L,"6' 1""",188,May 24 1998,2018,ashbyaa01
+33,53,Brandon Woodruff,us US,Pitcher,,60-day,30,L,R,"6' 4""",244,Feb 10 1993,2012,woodrbr01
+34,5,Garrett Mitchell,us US,Position,,60-day,24,L,R,"6' 3""",224,Sep 4 1998,2017,mitchga01
+35,25,Darin Ruf,us US,Position,,60-day,36,R,R,"6' 2""",232,Jul 28 1986,2009,rufda01
+36,41,Jason Alexander,us US,Pitcher,,,30,R,R,"6' 2""",227,Mar 1 1993,2014,alexaja01
+37,56,Janson Junk,us US,Pitcher,,,27,R,R,"6' 2""",202,Jan 15 1996,2015,junkja01
+38,54,Jake Cousins,us US,Pitcher,,,28,R,R,"6' 4""",193,Jul 14 1994,2014,cousija01
+39,32,Peter Strzelecki,us US,Pitcher,,,28,R,R,"6' 2""",216,Oct 24 1994,2017,strzepe01
+40,45,J.B. Bukauskas,us US,Pitcher,,,26,R,R,"6' 0""",208,Oct 11 1996,2015,bukaujb01
+41,43,Ethan Small,us US,Pitcher,,,26,L,L,"6' 2""",200,Feb 14 1997,2016,smallet01
+42,52,Eric Lauer,us US,Pitcher,,,28,R,L,"6' 3""",209,Jun 3 1995,2014,lauerer01
+43,47,Clayton Andrews,us US,Pitcher,,,26,L,L,"5' 6""",160,Jan 4 1997,2018,andrecl02
+44,2,Luis Urías,mx MX,Position,,,26,R,R,"5' 10""",202,Jun 3 1997,2014,uriaslu01
+45,13,Abraham Toro,ca CA,Position,,,26,S,R,"6' 0""",223,Dec 20 1996,2016,toroab01
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,

@@ -1,0 +1,53 @@
+﻿Rk,Uni,Name,,,OnActv,IL,Age,B,T,Ht,Wt,DoB,1stYr,Name-additional
+1,58,Alek Jacob,us US,Pitcher,*,,25,L,R,"6' 3""",190,Jun 16 1998,2017,jacobal01
+2,11,Yu Darvish,jp JP,Pitcher,*,,36,R,R,"6' 5""",220,Aug 16 1986,2005,darviyu01
+3,59,Tom Cosgrove,us US,Pitcher,*,,27,L,L,"6' 2""",190,Jun 14 1996,2015,cosgrto01
+4,25,Tim Hill,us US,Pitcher,*,,33,R,L,"6' 4""",200,Feb 10 1990,2014,hillti01
+5,36,Steven Wilson,us US,Pitcher,*,,28,R,R,"6' 3""",221,Aug 24 1994,2014,wilsost02
+6,67,Seth Lugo,us US,Pitcher,*,,33,R,R,"6' 4""",225,Nov 17 1989,2011,lugose01
+7,75,Robert Suarez,ve VE,Pitcher,*,,32,R,R,"6' 2""",210,Mar 1 1991,2015,suarero01
+8,21,Nick Martinez,us US,Pitcher,*,,32,L,R,"6' 1""",200,Aug 5 1990,2011,martini01
+9,66,Luis García,do DO,Pitcher,*,,36,R,R,"6' 2""",240,Jan 30 1987,2006,garcilu03
+10,71,Josh Hader,us US,Pitcher,*,,29,L,L,"5' 11""",180,Apr 7 1994,2012,haderjo01
+11,44,Joe Musgrove,us US,Pitcher,*,,30,R,R,"6' 5""",230,Dec 4 1992,2011,musgrjo01
+12,45,Brent Honeywell Jr.,us US,Pitcher,*,,28,R,R,"6' 2""",195,Mar 31 1995,2014,honeybr01
+13,4,Blake Snell,us US,Pitcher,*,,30,L,L,"6' 4""",225,Dec 4 1992,2011,snellbl01
+14,23,Fernando Tatis Jr.,do DO,Position,*,,24,R,R,"6' 3""",217,Jan 2 1999,2016,tatisfe02
+15,17,Matthew Batten,us US,Position,*,,28,R,R,"5' 11""",180,Jun 22 1995,2014,battema01
+16,14,Matt Carpenter,us US,Position,*,,37,L,R,"6' 4""",210,Nov 26 1985,2009,carpema01
+17,13,Manny Machado,us US,Position,*,,30,R,R,"6' 3""",218,Jul 6 1992,2010,machama01
+18,12,Luis Campusano,us US,Position,*,,24,R,R,"5' 11""",232,Sep 29 1998,2017,campulu01
+19,22,Juan Soto,do DO,Position,*,,24,L,L,"6' 2""",224,Oct 25 1998,2016,sotoju01
+20,38,Taylor Kohlwey,us US,Position,*,,28,L,L,"6' 1""",200,Jul 20 1994,2014,kohlwta01
+21,30,Alfonso Rivas,us US,Position,*,,26,L,L,"5' 10""",190,Sep 13 1996,2016,rivasal01
+22,1,Trent Grisham,us US,Position,*,,26,L,L,"5' 11""",224,Nov 1 1996,2015,grishtr01
+23,2,Xander Bogaerts,aw AW,Position,*,,30,R,R,"6' 2""",218,Oct 1 1992,2010,bogaexa01
+24,9,Jake Cronenworth,us US,Position,*,,29,L,R,"6' 0""",187,Jan 21 1994,2013,croneja01
+25,7,Ha-Seong Kim,kr KR,Position,*,,27,R,R,"5' 9""",168,Oct 17 1995,2014,kimha01
+26,99,Gary Sánchez,do DO,Position,*,,30,R,R,"6' 2""",230,Dec 2 1992,2010,sanchga02
+27,,Preston Tucker,us US,Position,,10-day,32,L,L,"6' 0""",210,Jul 6 1990,2010,tuckepr01
+28,50,Adrián Morejón,cu CU,Pitcher,,15-day,24,L,L,"5' 11""",224,Feb 27 1999,2014,morejad01
+29,52,Michael Wacha,us US,Pitcher,,15-day,31,R,R,"6' 6""",215,Jul 1 1991,2011,wachami01
+30,73,Drew Carlton,us US,Pitcher,,15-day,27,R,R,"6' 1""",215,Sep 8 1995,2015,carltdr01
+31,33,Reiss Knehr,us US,Pitcher,,60-day,26,L,R,"6' 2""",205,Nov 3 1996,2016,knehrre01
+32,15,Drew Pomeranz,us US,Pitcher,,60-day,34,R,L,"6' 5""",246,Nov 22 1988,2011,pomerdr01
+33,10,Eguy Rosario,do DO,Position,,60-day,23,R,R,"5' 7""",150,Aug 25 1999,2016,rosareg01
+34,60,Pedro Avila,ve VE,Pitcher,,,26,R,R,"5' 11""",210,Jan 14 1997,2015,avilape01
+35,56,Ray Kerr,us US,Pitcher,,,28,L,L,"6' 3""",185,Sep 10 1994,2017,kerrra01
+36,61,Matt Waldron,us US,Pitcher,,,26,R,R,"6' 2""",185,Sep 26 1996,2016,waldrma01
+37,40,Ryan Weathers,us US,Pitcher,,,23,R,L,"6' 1""",230,Dec 17 1999,2018,weathry01
+38,76,Domingo Tapia,do DO,Pitcher,,,31,R,R,"6' 3""",263,Aug 4 1991,2010,tapiado01
+39,55,Jay Groome,us US,Pitcher,,,24,L,L,"6' 6""",262,Aug 23 1998,2016,redirect.fcgi?player=1&mlb_ID=666130
+40,29,Brett Sullivan,us US,Position,,,29,L,R,"6' 1""",195,Feb 22 1994,2013,sullibr01
+41,16,Brandon Dixon,us US,Position,,,31,R,R,"6' 2""",215,Jan 29 1992,2011,dixonbr01
+42,26,Austin Nola,us US,Position,,,33,R,R,"6' 0""",197,Dec 28 1989,2010,nolaau01
+43,28,José Azocar,ve VE,Position,,,27,R,R,"5' 11""",181,May 11 1996,2013,azocajo01
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,

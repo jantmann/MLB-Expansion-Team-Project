@@ -1,0 +1,53 @@
+﻿Rk,Uni,Name,,,OnActv,IL,Age,B,T,Ht,Wt,DoB,1stYr,Name-additional
+1,43,Ryan Borucki,us US,Pitcher,*,,29,L,L,"6' 4""",210,Mar 31 1994,2012,borucry01
+2,64,Quinn Priester,us US,Pitcher,*,,22,R,R,"6' 3""",210,Sep 15 2000,2019,priesqu01
+3,51,David Bednar,us US,Pitcher,*,,28,L,R,"6' 0""",225,Oct 10 1994,2014,bednada01
+4,36,Dauri Moreta,do DO,Pitcher,*,,27,R,R,"6' 2""",185,Apr 15 1996,2015,moretda01
+5,70,Osvaldo Bido,do DO,Pitcher,*,,27,R,R,"6' 3""",175,Oct 18 1995,2017,bidoos01
+6,44,Rich Hill,us US,Pitcher,*,,43,L,L,"6' 5""",220,Mar 11 1980,2002,hillri01
+7,35,Colin Holderman,us US,Pitcher,*,,27,R,R,"6' 4""",230,Oct 8 1995,2015,holdeco01
+8,50,Carmen Mlodzinski,us US,Pitcher,*,,24,R,R,"6' 2""",220,Feb 19 1999,2018,mlodzca01
+9,23,Mitch Keller,us US,Pitcher,*,,27,R,R,"6' 3""",220,Apr 4 1996,2014,kellemi03
+10,57,Yerry De Los Santos,do DO,Pitcher,*,,25,R,R,"6' 2""",210,Dec 12 1997,2015,delosye01
+11,24,Johan Oviedo,cu CU,Pitcher,*,,25,R,R,"6' 5""",245,Mar 2 1998,2016,oviedjo01
+12,68,Angel Perdomo,do DO,Pitcher,*,,29,L,L,"6' 8""",265,May 7 1994,2012,perdoan01
+13,39,Nick Gonzales,us US,Position,*,,24,R,R,"5' 9""",190,May 27 1999,2018,gonzani01
+14,22,Andrew McCutchen,us US,Position,*,,36,R,R,"5' 10""",190,Oct 10 1986,2005,mccutan01
+15,91,Ji Man Choi,kr KR,Position,*,,32,L,R,"6' 1""",260,May 19 1991,2010,choiji01
+16,19,Jared Triolo,us US,Position,*,,25,R,R,"6' 3""",210,Feb 8 1998,2017,triolja01
+17,65,Jack Suwinski,us US,Position,*,,24,L,L,"6' 2""",215,Jul 29 1998,2016,suwinja01
+18,60,Liover Peguero,do DO,Position,*,,22,R,R,"6' 0""",220,Dec 31 2000,2018,pegueli01
+19,32,Henry Davis,us US,Position,*,,23,R,R,"6' 0""",210,Sep 21 1999,2019,davishe01
+20,25,Endy Rodríguez,do DO,Position,*,,23,S,R,"6' 0""",200,May 26 2000,2018,rodrien01
+21,2,Connor Joe,us US,Position,*,,30,R,R,"6' 0""",205,Aug 16 1992,2012,joeco01
+22,41,Carlos Santana,do DO,Position,*,,37,S,R,"5' 11""",210,Apr 8 1986,2005,santaca01
+23,30,Tucupita Marcano,ve VE,Position,*,,23,L,R,"6' 0""",170,Sep 16 1999,2017,marcatu01
+24,10,Bryan Reynolds,us US,Position,*,,28,S,R,"6' 2""",205,Jan 27 1995,2014,reynobr01
+25,18,Austin Hedges,us US,Position,*,,30,R,R,"6' 1""",220,Aug 18 1992,2011,hedgeau01
+26,3,Ji Hwan Bae,kr KR,Position,,10-day,23,L,R,"5' 11""",185,Jul 26 1999,2018,baeji01
+27,13,Ke'Bryan Hayes,us US,Position,,10-day,26,R,R,"5' 11""",195,Jan 28 1997,2015,hayeske01
+28,61,Jose Hernandez,do DO,Pitcher,,15-day,25,L,L,"6' 3""",205,Dec 31 1997,2016,hernajo03
+29,34,JT Brubaker,us US,Pitcher,,60-day,29,R,R,"6' 3""",180,Nov 17 1993,2013,brubajt01
+30,27,Vince Velasquez,us US,Pitcher,,60-day,31,R,R,"6' 3""",210,Jun 7 1992,2010,velasvi01
+31,66,Jarlín García,do DO,Pitcher,,60-day,30,L,L,"6' 3""",240,Jan 18 1993,2011,garcija04
+32,45,Max Kranick,us US,Pitcher,,60-day,25,R,R,"6' 3""",220,Jul 21 1997,2016,kranima01
+33,15,Oneil Cruz,do DO,Position,,60-day,24,L,R,"6' 7""",215,Oct 4 1998,2016,cruzon01
+34,53,Mike Burrows,us US,Pitcher,,,23,R,R,"6' 1""",190,Nov 8 1999,2018,redirect.fcgi?player=1&mlb_ID=681347
+35,,Andre Jackson,us US,Pitcher,,,27,R,R,"6' 3""",210,May 1 1996,2015,jacksan01
+36,52,Colin Selby,us US,Pitcher,,,25,R,R,"6' 2""",220,Oct 24 1997,2016,redirect.fcgi?player=1&mlb_ID=681882
+37,59,Roansy Contreras,do DO,Pitcher,,,23,R,R,"6' 1""",205,Nov 7 1999,2017,contrro01
+38,67,Cody Bolton,us US,Pitcher,,,25,R,R,"6' 2""",210,Jun 19 1998,2017,boltoco01
+39,48,Luis Ortiz,do DO,Pitcher,,,24,R,R,"6' 2""",235,Jan 27 1999,2019,ortizlu03
+40,46,Yohan Ramirez,do DO,Pitcher,,,28,R,R,"6' 4""",212,May 6 1995,2016,ramiryo01
+41,55,Jason Delay,us US,Position,,,28,R,R,"5' 11""",190,Mar 7 1995,2014,delayja01
+42,54,Josh Palacios,us US,Position,,,27,L,R,"6' 1""",200,Jul 30 1995,2014,palacjo01
+43,14,Rodolfo Castro,do DO,Position,,,24,S,R,"6' 0""",205,May 21 1999,2016,castrro01
+44,28,Canaan Smith-Njigba,us US,Position,,,24,L,R,"6' 0""",230,Apr 30 1999,2017,smithca05
+45,31,Calvin Mitchell,us US,Position,,,24,L,L,"6' 0""",220,Mar 8 1999,2017,mitchca01
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,

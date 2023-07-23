@@ -1,0 +1,49 @@
+﻿Rk,Uni,Name,,,OnActv,IL,Age,B,T,Ht,Wt,DoB,1stYr,Name-additional
+1,84,Dylan Cease,us US,Pitcher,*,,27,R,R,"6' 2""",195,Dec 28 1995,2015,ceasedy01
+2,49,Kendall Graveman,us US,Pitcher,*,,32,R,R,"6' 2""",200,Dec 21 1990,2011,graveke01
+3,99,Keynan Middleton,us US,Pitcher,*,,29,R,R,"6' 3""",215,Sep 12 1993,2013,middlke01
+4,62,Jesse Scholtens,us US,Pitcher,*,,29,R,R,"6' 4""",230,Apr 6 1994,2013,scholje01
+5,33,Lance Lynn,us US,Pitcher,*,,36,S,R,"6' 5""",270,May 12 1987,2008,lynnla01
+6,60,Gregory Santos,do DO,Pitcher,*,,23,R,R,"6' 2""",190,Aug 28 1999,2016,santogr01
+7,27,Lucas Giolito,us US,Pitcher,*,,28,R,R,"6' 6""",245,Jul 14 1994,2012,giolilu01
+8,34,Michael Kopech,us US,Pitcher,*,,27,R,R,"6' 3""",210,Apr 30 1996,2014,kopecmi01
+9,40,Reynaldo López,do DO,Pitcher,*,,29,R,R,"6' 1""",225,Jan 4 1994,2012,lopezre01
+10,57,Tanner Banks,us US,Pitcher,*,,31,R,L,"6' 1""",210,Oct 24 1991,2013,banksta01
+11,41,Bryan Shaw,us US,Pitcher,*,,35,S,R,"6' 1""",226,Nov 8 1987,2008,shawbr01
+12,47,Touki Toussaint,us US,Pitcher,*,,27,R,R,"6' 3""",215,Jun 20 1996,2014,toussto01
+13,39,Aaron Bummer,us US,Pitcher,*,,29,L,L,"6' 3""",215,Sep 21 1993,2012,bummeaa01
+14,28,Zach Remillard,us US,Position,*,,29,R,R,"6' 0""",185,Feb 21 1994,2013,remilza01
+15,22,Oscar Colás,cu CU,Position,*,,24,L,L,"5' 11""",220,Sep 17 1998,2016,colasos01
+16,44,Seby Zavala,us US,Position,*,,29,R,R,"5' 11""",205,Aug 28 1993,2012,zavalse01
+17,88,Luis Robert Jr.,cu CU,Position,*,,25,R,R,"6' 2""",220,Aug 3 1997,2013,roberlu01
+18,7,Tim Anderson,us US,Position,*,,30,R,R,"6' 1""",185,Jun 23 1993,2013,anderti01
+19,24,Yasmani Grandal,cu CU,Position,*,,34,S,R,"6' 2""",225,Nov 8 1988,2010,grandya01
+20,30,Jake Burger,us US,Position,*,,27,R,R,"6' 2""",230,Apr 10 1996,2015,burgeja01
+21,23,Andrew Benintendi,us US,Position,*,,28,L,L,"5' 9""",180,Jul 6 1994,2014,beninan01
+22,32,Gavin Sheets,us US,Position,*,,27,L,L,"6' 5""",230,Apr 23 1996,2015,sheetga01
+23,1,Elvis Andrus,ve VE,Position,*,,34,R,R,"6' 0""",210,Aug 26 1988,2005,andruel01
+24,25,Andrew Vaughn,us US,Position,*,,25,R,R,"6' 0""",215,Apr 3 1998,2017,vaughan01
+25,74,Eloy Jiménez,do DO,Position,*,,26,R,R,"6' 4""",240,Nov 27 1996,2014,jimenel02
+26,36,Carlos Pérez,ve VE,Position,*,,26,R,R,"5' 11""",205,Sep 10 1996,2014,perezca03
+27,10,Yoán Moncada,cu CU,Position,,10-day,28,S,R,"6' 2""",225,May 27 1995,2012,moncayo01
+28,17,Joe Kelly,us US,Pitcher,,15-day,35,R,R,"6' 1""",174,Jun 9 1988,2009,kellyjo05
+29,31,Liam Hendriks,au AU,Pitcher,,15-day,34,R,R,"6' 0""",235,Feb 10 1989,2007,hendrli01
+30,45,Garrett Crochet,us US,Pitcher,,15-day,24,L,L,"6' 6""",230,Jun 21 1999,2018,crochga01
+31,52,Mike Clevinger,us US,Pitcher,,15-day,32,R,R,"6' 4""",215,Dec 21 1990,2011,clevimi01
+32,63,Matt Foster,us US,Pitcher,,60-day,28,R,R,"6' 0""",215,Jan 27 1995,2016,fostema01
+33,12,Romy Gonzalez,us US,Position,,60-day,26,R,R,"6' 1""",215,Sep 6 1996,2016,gonzaro01
+34,61,Nicholas Padilla,us US,Pitcher,,,26,R,R,"6' 2""",220,Dec 24 1996,2016,padilni01
+35,67,Sammy Peralta,us US,Pitcher,,,25,L,L,"6' 2""",205,May 10 1998,2017,peralsa01
+36,65,Davis Martin,us US,Pitcher,,,26,L,R,"6' 2""",215,Jan 4 1997,2016,martida03
+37,58,Jimmy Lambert,us US,Pitcher,,,28,R,R,"6' 2""",190,Nov 18 1994,2014,lambeji01
+38,15,Clint Frazier,us US,Position,,,28,R,R,"5' 11""",212,Sep 6 1994,2013,frazicl01
+39,82,Bryan Ramos,cu CU,Position,,,21,R,R,"6' 2""",225,Mar 12 2002,2019,redirect.fcgi?player=1&mlb_ID=682868
+40,55,José Rodriguez,do DO,Position,,,22,R,R,"5' 11""",175,May 13 2001,2018,rodrijo09
+41,50,Lenyn Sosa,ve VE,Position,,,23,R,R,"6' 0""",180,Jan 25 2000,2017,sosale01
+42,51,Adam Haseley,us US,Position,,,27,L,L,"6' 1""",190,Apr 12 1996,2015,haselad01
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,

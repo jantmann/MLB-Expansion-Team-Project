@@ -1,0 +1,49 @@
+﻿Rk,Uni,Name,,,OnActv,IL,Age,B,T,Ht,Wt,DoB,1stYr,Name-additional
+1,59,Michael Rucker,us US,Pitcher,*,,29,R,R,"6' 1""",195,Apr 27 1994,2013,ruckemi01
+2,72,Javier Assad,mx MX,Pitcher,*,,25,R,R,"6' 1""",200,Jul 30 1997,2016,assadja01
+3,66,Julian Merryweather,us US,Pitcher,*,,31,R,R,"6' 4""",215,Oct 14 1991,2014,merryju01
+4,50,Jameson Taillon,us US,Pitcher,*,,31,R,R,"6' 5""",230,Nov 18 1991,2011,taillja01
+5,35,Justin Steele,us US,Pitcher,*,,27,L,L,"6' 2""",205,Jul 11 1995,2014,steelju01
+6,28,Kyle Hendricks,us US,Pitcher,*,,33,R,R,"6' 3""",190,Dec 7 1989,2010,hendrky01
+7,,Marcus Stroman,us US,Pitcher,*,,32,R,R,"5' 7""",180,May 1 1991,2010,stromma01
+8,38,Mark Leiter Jr.,us US,Pitcher,*,,32,R,R,"6' 0""",210,Mar 13 1991,2011,leitema02
+9,11,Drew Smyly,us US,Pitcher,*,,34,L,L,"6' 2""",188,Jun 13 1989,2011,smylydr01
+10,32,Michael Fulmer,us US,Pitcher,*,,30,R,R,"6' 3""",224,Mar 15 1993,2011,fulmemi01
+11,48,Daniel Palencia,ve VE,Pitcher,*,,23,R,R,"5' 11""",160,Feb 5 2000,2021,palenda01
+12,46,Anthony Kay,us US,Pitcher,*,,28,L,L,"6' 0""",225,Mar 21 1995,2014,kayan01
+13,73,Adbert Alzolay,ve VE,Pitcher,*,,28,R,R,"6' 1""",208,Mar 1 1995,2013,alzolad01
+14,15,Yan Gomes,br BR,Position,*,,35,R,R,"6' 2""",212,Jul 19 1987,2009,gomesya01
+15,6,Miguel Amaya,pa PA,Position,*,,24,R,R,"6' 0""",230,Mar 9 1999,2016,amayami01
+16,40,Mike Tauchman,us US,Position,*,,32,L,L,"6' 1""",220,Dec 3 1990,2011,tauchmi01
+17,20,Miles Mastrobuoni,us US,Position,*,,27,L,R,"5' 10""",185,Oct 31 1995,2015,mastrmi01
+18,2,Nico Hoerner,us US,Position,*,,26,R,R,"6' 1""",200,May 13 1997,2016,hoernni01
+19,16,Patrick Wisdom,us US,Position,*,,31,R,R,"6' 2""",220,Aug 27 1991,2011,wisdopa01
+20,27,Seiya Suzuki,jp JP,Position,*,,28,R,R,"5' 11""",182,Aug 18 1994,2013,suzukse01
+21,36,Trey Mancini,us US,Position,*,,31,R,R,"6' 3""",230,Mar 18 1992,2011,mancitr01
+22,18,Tucker Barnhart,us US,Position,*,,32,L,R,"5' 11""",192,Jan 7 1991,2009,barnhtu01
+23,74,Jared Young,ca CA,Position,*,,27,L,R,"6' 0""",185,Jul 9 1995,2017,youngja02
+24,5,Christopher Morel,do DO,Position,*,,24,R,R,"5' 11""",145,Jun 24 1999,2017,morelch01
+25,24,Cody Bellinger,us US,Position,*,,27,L,L,"6' 4""",203,Jul 13 1995,2013,bellico01
+26,8,Ian Happ,us US,Position,*,,28,S,R,"6' 0""",205,Aug 12 1994,2013,happia01
+27,7,Dansby Swanson,us US,Position,,10-day,29,R,R,"6' 1""",190,Feb 11 1994,2013,swansda01
+28,1,Nick Madrigal,us US,Position,,10-day,26,R,R,"5' 8""",175,Mar 5 1997,2015,madrini01
+29,41,Adrian Sampson,us US,Pitcher,,60-day,31,R,R,"6' 2""",210,Oct 7 1991,2012,sampsad01
+30,21,Ethan Roberts,us US,Pitcher,,60-day,25,R,R,"5' 10""",180,Jul 4 1997,2016,roberet01
+31,25,Brad Boxberger,us US,Pitcher,,60-day,35,R,R,"5' 10""",211,May 27 1988,2009,boxbebr01
+32,12,Codi Heuer,us US,Pitcher,,60-day,26,R,R,"6' 5""",200,Jul 3 1996,2016,heuerco01
+33,47,Brandon Hughes,us US,Pitcher,,60-day,27,S,L,"6' 2""",215,Dec 1 1995,2015,hughebr01
+34,49,Nick Burdi,us US,Pitcher,,60-day,30,R,R,"6' 3""",225,Jan 19 1993,2012,burdini01
+35,45,Caleb Kilian,us US,Pitcher,,,26,R,R,"6' 4""",180,Jun 2 1997,2017,kiliaca01
+36,86,Ben Brown,us US,Pitcher,,,23,R,R,"6' 6""",210,Sep 9 1999,2017,redirect.fcgi?player=1&mlb_ID=676962
+37,84,Ryan Jensen,us US,Pitcher,,,25,R,R,"6' 0""",190,Nov 23 1997,2017,redirect.fcgi?player=1&mlb_ID=686754
+38,71,Keegan Thompson,us US,Pitcher,,,28,R,R,"6' 1""",210,Mar 13 1995,2014,thompke02
+39,56,Jeremiah Estrada,us US,Pitcher,,,24,S,R,"6' 1""",185,Nov 1 1998,2017,estraje01
+40,19,Hayden Wesneski,us US,Pitcher,,,25,R,R,"6' 3""",210,Dec 5 1997,2017,wesneha01
+41,4,Nelson Velázquez,pr PR,Position,,,24,R,R,"6' 0""",190,Dec 26 1998,2017,velazne01
+42,94,Brennen Davis,us US,Position,,,23,R,R,"6' 0""",210,Nov 2 1999,2018,redirect.fcgi?player=1&mlb_ID=680695
+43,22,Matt Mervis,us US,Position,,,25,L,R,"6' 2""",225,Apr 16 1998,2016,mervima01
+44,30,Edwin Rios,pr PR,Position,,,29,L,R,"6' 3""",220,Apr 21 1994,2013,riosed01
+45,80,Alexander Canario,do DO,Position,,,23,R,R,"5' 11""",212,May 7 2000,2017,redirect.fcgi?player=1&mlb_ID=672744
+46,88,Kevin Alcántara,do DO,Position,,,20,R,R,"6' 6""",188,Jul 12 2002,2019,redirect.fcgi?player=1&mlb_ID=682634
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,

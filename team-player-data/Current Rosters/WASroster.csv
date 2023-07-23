@@ -1,0 +1,53 @@
+﻿Rk,Uni,Name,,,OnActv,IL,Age,B,T,Ht,Wt,DoB,1stYr,Name-additional
+1,53,Joe La Sorsa,us US,Pitcher,*,,25,L,L,"6' 5""",215,Apr 29 1998,2017,lasorjo01
+2,51,Jordan Weems,us US,Pitcher,*,,30,L,R,"6' 4""",212,Nov 7 1992,2011,weemsjo01
+3,47,Jose Ferrer,do DO,Pitcher,*,,23,L,L,"6' 1""",229,Mar 3 2000,2018,ferrejo01
+4,40,Josiah Gray,us US,Pitcher,*,,25,R,R,"6' 1""",210,Dec 21 1997,2016,grayjo03
+5,74,Jake Irvin,us US,Pitcher,*,,26,R,R,"6' 6""",227,Feb 18 1997,2016,irvinja01
+6,67,Kyle Finnegan,us US,Pitcher,*,,31,R,R,"6' 2""",200,Sep 4 1991,2011,finneky01
+7,1,MacKenzie Gore,us US,Pitcher,*,,24,L,L,"6' 2""",192,Feb 24 1999,2017,gorema01
+8,71,Mason Thompson,us US,Pitcher,*,,25,R,R,"6' 6""",244,Feb 20 1998,2016,thompma02
+9,77,Cory Abbott,us US,Pitcher,*,,27,R,R,"6' 2""",217,Sep 20 1995,2015,abbotco01
+10,46,Patrick Corbin,us US,Pitcher,*,,33,L,L,"6' 4""",226,Jul 19 1989,2009,corbipa01
+11,52,Rico Garcia,us US,Pitcher,*,,29,R,R,"5' 9""",201,Jan 10 1994,2013,garciri01
+12,32,Trevor Williams,us US,Pitcher,*,,31,R,R,"6' 3""",231,Apr 25 1992,2011,willitr01
+13,54,Amos Willingham,us US,Pitcher,*,,24,R,R,"6' 4""",217,Aug 21 1998,2019,william01
+14,6,Michael Chavis,us US,Position,*,,27,R,R,"5' 10""",190,Aug 11 1995,2014,chavimi01
+15,2,Luis García,us US,Position,*,,23,L,R,"6' 2""",220,May 16 2000,2017,garcilu04
+16,28,Lane Thomas,us US,Position,*,,27,R,R,"6' 0""",198,Aug 23 1995,2014,thomala02
+17,15,Riley Adams,us US,Position,*,,27,R,R,"6' 4""",260,Jun 26 1996,2015,adamsri03
+18,20,Keibert Ruiz,ve VE,Position,*,,24,S,R,"6' 0""",227,Jul 20 1998,2015,ruizke01
+19,36,Stone Garrett,us US,Position,*,,27,R,R,"6' 2""",224,Nov 22 1995,2014,garrest01
+20,17,Alex Call,us US,Position,*,,28,R,R,"5' 11""",189,Sep 27 1994,2013,callal02
+21,45,Joey Meneses,mx MX,Position,*,,31,R,R,"6' 3""",240,May 6 1992,2011,menesjo01
+22,5,CJ Abrams,us US,Position,*,,22,L,R,"6' 2""",191,Oct 3 2000,2019,abramcj01
+23,9,Jeimer Candelario,us US,Position,*,,29,S,R,"6' 2""",222,Nov 24 1993,2011,candeje01
+24,23,Corey Dickerson,us US,Position,*,,34,L,R,"6' 1""",212,May 22 1989,2010,dickeco01
+25,14,Ildemaro Vargas,ve VE,Position,*,,31,S,R,"6' 0""",195,Jul 16 1991,2008,vargail01
+26,22,Dominic Smith,us US,Position,*,,28,L,L,"6' 0""",224,Jun 15 1995,2013,smithdo02
+27,16,Victor Robles,do DO,Position,,10-day,26,R,R,"6' 0""",194,May 19 1997,2014,roblevi01
+28,30,Paolo Espino,pa PA,Pitcher,,15-day,36,R,R,"5' 10""",212,Jan 10 1987,2007,espinpa01
+29,68,Thaddeus Ward,us US,Pitcher,,15-day,26,R,R,"6' 3""",204,Jan 16 1997,2016,wardth01
+30,58,Carl Edwards Jr.,us US,Pitcher,,15-day,31,R,R,"6' 3""",165,Sep 3 1991,2012,edwarca01
+31,73,Hunter Harvey,us US,Pitcher,,15-day,28,R,R,"6' 3""",239,Dec 9 1994,2013,harvehu01
+32,37,Stephen Strasburg,us US,Pitcher,,60-day,34,R,R,"6' 5""",239,Jul 20 1988,2009,strasst01
+33,54,Cade Cavalli,us US,Pitcher,,60-day,24,R,R,"6' 4""",232,Aug 14 1998,2017,cavalca01
+34,21,Tanner Rainey,us US,Pitcher,,60-day,30,R,R,"6' 2""",250,Dec 25 1992,2012,raineta01
+35,64,Víctor Arano,mx MX,Pitcher,,60-day,28,R,R,"6' 2""",242,Feb 7 1995,2013,aranovi01
+36,43,Israel Pineda,ve VE,Position,,60-day,23,R,R,"5' 11""",217,Apr 3 2000,2017,pinedis01
+37,75,Hobie Harris,us US,Pitcher,,,30,R,R,"6' 3""",212,Jun 23 1993,2014,harriho02
+38,56,Matt Cronin,us US,Pitcher,,,25,L,L,"6' 2""",210,Sep 20 1997,2017,redirect.fcgi?player=1&mlb_ID=669091
+39,60,Joan Adon,do DO,Pitcher,,,24,R,R,"6' 2""",245,Aug 12 1998,2017,adonjo01
+40,79,Jackson Rutledge,us US,Pitcher,,,24,R,R,"6' 8""",251,Apr 1 1999,2018,redirect.fcgi?player=1&mlb_ID=671131
+41,,Roddery Muñoz,do DO,Pitcher,,,23,R,R,"6' 2""",210,Apr 14 2000,2018,redirect.fcgi?player=1&mlb_ID=682610
+42,8,Carter Kieboom,us US,Position,,,25,R,R,"6' 2""",211,Sep 3 1997,2016,kieboca01
+43,39,Jake Alu,us US,Position,,,26,L,R,"5' 10""",186,Apr 6 1997,2016,aluja01
+44,70,Jeremy De La Rosa,do DO,Position,,,21,L,L,"6' 0""",215,Jan 16 2002,2019,redirect.fcgi?player=1&mlb_ID=682707
+45,3,Jeter Downs,co CO,Position,,,24,R,R,"5' 11""",197,Jul 27 1998,2017,downsje01
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
